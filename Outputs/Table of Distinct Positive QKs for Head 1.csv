@@ -1,0 +1,235 @@
+,QK Circuit Value,Key Feature,Query Feature
+0,0.475,5815:  numerical or tabular data relevant to various contexts,11541:  coding elements related to data parsing and storage operations
+1,0.3503,"9289: numeric values and structured formats, particularly those that appear in data representations and web links",1522: terms related to population dynamics and genetic variation
+2,0.317,13264: terms related to analysis and metrics in complex systems,1023: comma-separated lists or sequences of items
+3,0.3164,6966: elements of code and programming constructs,6643: phrases related to sports statistics and performances
+4,0.311,14870: concepts related to medical research and treatment,"9932: functions and events related to programming, particularly those involving event handling and listener methods"
+5,0.2966,10438: biological processes and medical terminology related to diagnostics,14376: emphasis markers and formatting elements in documents
+6,0.2776,6599:  sections of text that contain scientific or technical jargon related to genetics or molecular biology,9841: technical classifications and descriptions of systems or devices
+7,0.2754,6293: elements related to mold removal and cleaning,2157: statistical terms related to probability density functions
+8,0.2744,"9289: numeric values and structured formats, particularly those that appear in data representations and web links",14842: numerical values and related characters
+9,0.2612,4584: phrases related to statistical measurements and observed data frequencies,8787:  references to fluid dynamics or methods involving fluid treatment
+10,0.2452,"8252:  mentions of the ""mi"" RNA family",1868: technical terminology and references related to organizations or specific fields
+11,0.2415,"6591: specific identifiers, likely related to names or references in academic or technical contexts",8437: data references and statistics related to biological experiments
+12,0.2406,7116: details related to software updates and version releases,13744: terms related to health conditions and their classifications
+13,0.2385,693:  references to companies and specific products associated with genetics and finance,1942:  rankings and positions of institutions or programs
+14,0.2374,16340: elements related to user preferences or session management,1745: questions and mathematical operations involving problem-solving
+15,0.2322,5635: the interactions and relationships between variables in a data set,6052: object properties and their associated methods in programming contexts
+16,0.2285,7017:  technical and programming-related terminology,3561: significant contextual markers or structural cues within scientific or technical writing
+17,0.2151,693:  references to companies and specific products associated with genetics and finance,12401:  citations and references in scientific literature
+18,0.2133,10438: biological processes and medical terminology related to diagnostics,3036: queries related to SQL and data manipulation
+19,0.2097,"13351: definitions and explanations related to the term ""host,"" particularly in the context of events and leadership roles",619: names of individuals and their affiliations or roles in a social context
+20,0.209,11805: references to significant achievements or records in sports,11205:  technical terms related to protocols and guidelines in emergency preparedness
+21,0.2087,11805: references to significant achievements or records in sports,7507: numerical data and references related to statistics and measurements
+22,0.2067,4584: phrases related to statistical measurements and observed data frequencies,8767:  concepts related to environmental sustainability and privacy in data handling
+23,0.2031,11541:  coding elements related to data parsing and storage operations,5815:  numerical or tabular data relevant to various contexts
+24,0.2031,"13351: definitions and explanations related to the term ""host,"" particularly in the context of events and leadership roles",6052: object properties and their associated methods in programming contexts
+25,0.2028,14870: concepts related to medical research and treatment,5912: elements related to archaeological findings and ancient artifacts
+26,0.1993,16340: elements related to user preferences or session management,8931:  restaurant reviews that mention food quality and dining experiences
+27,0.1981,693:  references to companies and specific products associated with genetics and finance,7314:  punctuation marks such as quotation marks and apostrophes
+28,0.1957,9900: bitwise operators and hexadecimal values in programming code,1868: technical terminology and references related to organizations or specific fields
+29,0.1952,"8252:  mentions of the ""mi"" RNA family","14770:  occurrences of the word ""Times."""
+30,0.1951,"105: special formatting and certain structural elements in the text, including symbols and patterns",6392:  XML-like structured data elements
+31,0.1947,6599:  sections of text that contain scientific or technical jargon related to genetics or molecular biology,829:  mathematical expressions and formulas
+32,0.1945,"6591: specific identifiers, likely related to names or references in academic or technical contexts",10547: statements and discussions regarding accusations or allegations
+33,0.1921,7950:  phrases related to technical specifications or characteristics,"1178: elements of mathematical notation or models, particularly those related to tuberculosis and statistical components"
+34,0.192,6293: elements related to mold removal and cleaning,8117: names of countries and items related to gender equality and healthcare
+35,0.191,4092: references to educational backgrounds and achievements,9511: punctuation and its use in sentence structure
+36,0.1902,11312: references to mathematical terms and variables,15288: technical terminology and programming constructs related to data processing and validation
+37,0.1896,10788:  technical terms and parameters related to performance metrics,16287: terms related to quantification and measurement in various contexts
+38,0.1881,7852: references to people in various professional roles and their relationships,16287: terms related to quantification and measurement in various contexts
+39,0.1853,16340: elements related to user preferences or session management,11633: elements related to code structure and organization in programming
+40,0.1841,13805: conditional phrases or questions,1522: terms related to population dynamics and genetic variation
+41,0.1835,"3901:  code-related elements and structures, particularly loops and conditional statements",14781: elements related to user interaction and token verification in a digital workspace
+42,0.1829,"105: special formatting and certain structural elements in the text, including symbols and patterns",13430: mathematical constructs and expressions
+43,0.1788,14870: concepts related to medical research and treatment,9681: historical references related to laws and legal cases
+44,0.1786,2743: discussions related to slavery and exploitative economic systems,1522: terms related to population dynamics and genetic variation
+45,0.1782,14781: elements related to user interaction and token verification in a digital workspace,"11671: terms related to statistical parameters and coefficients, particularly in the context of regression analysis"
+46,0.1765,"9289: numeric values and structured formats, particularly those that appear in data representations and web links",6052: object properties and their associated methods in programming contexts
+47,0.1757,693:  references to companies and specific products associated with genetics and finance,15116: references to statistics and categories related to entities
+48,0.1703,"8252:  mentions of the ""mi"" RNA family",15648:  C programming constructs related to defining functions and managing data structures
+49,0.169,"13351: definitions and explanations related to the term ""host,"" particularly in the context of events and leadership roles",14802: phrases indicating existence or introduction of concepts
+50,0.1667,11805: references to significant achievements or records in sports,2036: technical terms and references related to theories and formulas in physics and mathematics
+51,0.1659,11275:  default export statements in code,6052: object properties and their associated methods in programming contexts
+52,0.1659,9194: tokens and symbols used in programming and mathematical expressions,4061: references to procedures and assistance related to regulatory or compliance matters
+53,0.1646,11805: references to significant achievements or records in sports,14781: elements related to user interaction and token verification in a digital workspace
+54,0.1641,"9289: numeric values and structured formats, particularly those that appear in data representations and web links",13805: conditional phrases or questions
+55,0.1638,5635: the interactions and relationships between variables in a data set,11275:  default export statements in code
+56,0.1637,"6602: sentences that emphasize the subject ""it"" in various contexts",5707:  return statements in code
+57,0.1636,6599:  sections of text that contain scientific or technical jargon related to genetics or molecular biology,499: features and attributes related to product descriptions and specifications
+58,0.1628,6293: elements related to mold removal and cleaning,7325:  occurrences of the brace symbol '{' in the text
+59,0.1622,6293: elements related to mold removal and cleaning,13492: numerical data and date representations
+60,0.1613,"12212: words and phrases related to the experience and appreciation of taste, particularly in food and drink contexts",3996: phrases indicating service quality and customer guarantees
+61,0.1602,14656:  references to HTML and JavaScript coding elements,5733: references to nuclear energy development and cooperation
+62,0.1595,11312: references to mathematical terms and variables,"2012: instances of the word ""already"" in various contexts"
+63,0.1594,"105: special formatting and certain structural elements in the text, including symbols and patterns",7507: numerical data and references related to statistics and measurements
+64,0.1587,4581: information related to specific scientific and technical categories,1868: technical terminology and references related to organizations or specific fields
+65,0.1583,16340: elements related to user preferences or session management,"6028: terms related to conditions, requirements, and limitations in various contexts"
+66,0.1581,"6591: specific identifiers, likely related to names or references in academic or technical contexts",2565: references to rural locations and related entities
+67,0.158,10438: biological processes and medical terminology related to diagnostics,"9932: functions and events related to programming, particularly those involving event handling and listener methods"
+68,0.1572,6052: object properties and their associated methods in programming contexts,11275:  default export statements in code
+69,0.157,6599:  sections of text that contain scientific or technical jargon related to genetics or molecular biology,7796: elements related to code syntax and structure in programming
+70,0.156,3302: phrases involving details of legal cases and actions taken within them,"1178: elements of mathematical notation or models, particularly those related to tuberculosis and statistical components"
+71,0.156,"13351: definitions and explanations related to the term ""host,"" particularly in the context of events and leadership roles","9932: functions and events related to programming, particularly those involving event handling and listener methods"
+72,0.1555,10438: biological processes and medical terminology related to diagnostics,16365: 
+73,0.1552,"3901:  code-related elements and structures, particularly loops and conditional statements",8117: names of countries and items related to gender equality and healthcare
+74,0.1548,7225: words that question the value or significance of a subject,3467:  markers indicating the beginning of sections or important headings in the text
+75,0.1543,4584: phrases related to statistical measurements and observed data frequencies,13341: terms related to quality and its measurement
+76,0.1542,"3901:  code-related elements and structures, particularly loops and conditional statements",3732: punctuation marks
+77,0.1538,12990: references to specific brands and product lines,14376: emphasis markers and formatting elements in documents
+78,0.1536,"6591: specific identifiers, likely related to names or references in academic or technical contexts",10788:  technical terms and parameters related to performance metrics
+79,0.1528,4584: phrases related to statistical measurements and observed data frequencies,"808: elements of code structure and syntax, particularly related to method definitions and class properties"
+80,0.1525,14703: radio button input elements in forms,1522: terms related to population dynamics and genetic variation
+81,0.1516,6293: elements related to mold removal and cleaning,1745: questions and mathematical operations involving problem-solving
+82,0.1509,2538: phrases related to collaboration and joint participation in activities or events,5755:  references to controversial political figures and their actions
+83,0.1498,14870: concepts related to medical research and treatment,619: names of individuals and their affiliations or roles in a social context
+84,0.1497,6643: phrases related to sports statistics and performances,6966: elements of code and programming constructs
+85,0.1495,13046:  mathematical symbols and parameters related to equations and functions,14376: emphasis markers and formatting elements in documents
+86,0.1493,1023: comma-separated lists or sequences of items,13264: terms related to analysis and metrics in complex systems
+87,0.1487,7507: numerical data and references related to statistics and measurements,"16308: transitions and changes in circumstances, particularly regarding financial transactions and medical procedures"
+88,0.1486,8931:  restaurant reviews that mention food quality and dining experiences,16340: elements related to user preferences or session management
+89,0.1473,"6591: specific identifiers, likely related to names or references in academic or technical contexts",15288: technical terminology and programming constructs related to data processing and validation
+90,0.146,"16308: transitions and changes in circumstances, particularly regarding financial transactions and medical procedures",7507: numerical data and references related to statistics and measurements
+91,0.146,"9289: numeric values and structured formats, particularly those that appear in data representations and web links",2743: discussions related to slavery and exploitative economic systems
+92,0.145,7314:  punctuation marks such as quotation marks and apostrophes,693:  references to companies and specific products associated with genetics and finance
+93,0.1449,6599:  sections of text that contain scientific or technical jargon related to genetics or molecular biology,1942:  rankings and positions of institutions or programs
+94,0.1447,453: references to draft picks and player evaluations in sports contexts,15269: technical terms and definitions related to programming constructs or data structures
+95,0.1443,4584: phrases related to statistical measurements and observed data frequencies,"1380: phrases related to economic and trading concepts, particularly in relation to Bitcoin and market dynamics"
+96,0.1439,6599:  sections of text that contain scientific or technical jargon related to genetics or molecular biology,2036: technical terms and references related to theories and formulas in physics and mathematics
+97,0.1432,12680: terms related to representation and demographics in discussions about juries and surveys,13065: elements related to encoding and document processing in programming contexts
+98,0.143,11805: references to significant achievements or records in sports,9009:  programming-related terms and code structure elements
+99,0.143,14870: concepts related to medical research and treatment,8846: terms related to affordability and value for money
+100,0.143,4899: phrases related to political commentary,7786: punctuation marks that indicate emphasis or separation
+101,0.1426,3146: names and contact information related to individuals and organizations,10982: scientific terminologies related to vascular factors and biological systems
+102,0.1422,14870: concepts related to medical research and treatment,12781: elements related to authority and control in legal or organizational contexts
+103,0.1422,"8252:  mentions of the ""mi"" RNA family","12051:  references to legal and judicial contexts, especially pertaining to North Carolina"
+104,0.1421,"8881: terms related to medical treatments and studies, particularly in clinical contexts",955: references to community-focused organizations or initiatives
+105,0.1416,8644: terms related to training and testing data in machine learning contexts,2658:  numerical values and associated variables or parameters
+106,0.1415,2544: words and phrases related to consistency and standardization in design,8767:  concepts related to environmental sustainability and privacy in data handling
+107,0.1415,6293: elements related to mold removal and cleaning,14802: phrases indicating existence or introduction of concepts
+108,0.1414,5635: the interactions and relationships between variables in a data set,"1178: elements of mathematical notation or models, particularly those related to tuberculosis and statistical components"
+109,0.1412,14123: references to file formats and data structures,8250: questions and statements regarding uncertainty or quantity
+110,0.1412,"13351: definitions and explanations related to the term ""host,"" particularly in the context of events and leadership roles","4814: concepts related to health and well-being, especially in medical contexts"
+111,0.1411,14468: conversational markers and interactions,8787:  references to fluid dynamics or methods involving fluid treatment
+112,0.1411,194: references to sports events and player performance,3561: significant contextual markers or structural cues within scientific or technical writing
+113,0.141,14468: conversational markers and interactions,8767:  concepts related to environmental sustainability and privacy in data handling
+114,0.1407,14870: concepts related to medical research and treatment,7632:  definite articles and common nouns in sentences
+115,0.1404,2999: terms related to statistical analysis and data representation,15598: phrases related to decline or loss over time
+116,0.1401,13264: terms related to analysis and metrics in complex systems,11412: statistical references and data
+117,0.1401,11716: references to various types of data structures and their attributes in programming contexts,3036: queries related to SQL and data manipulation
+118,0.1395,9783:  references to software and programming discussions,9417: technical terms related to scientific processes and measurements
+119,0.1395,6966: elements of code and programming constructs,3146: names and contact information related to individuals and organizations
+120,0.1392,8208:  references to dates and locations,1868: technical terminology and references related to organizations or specific fields
+121,0.1385,"11671: terms related to statistical parameters and coefficients, particularly in the context of regression analysis",14781: elements related to user interaction and token verification in a digital workspace
+122,0.1383,4907: phrases and terms related to legal and bureaucratic processes,2658:  numerical values and associated variables or parameters
+123,0.1376,9417: technical terms related to scientific processes and measurements,9783:  references to software and programming discussions
+124,0.1365,11805: references to significant achievements or records in sports,7325:  occurrences of the brace symbol '{' in the text
+125,0.1364,11051: phrases related to death and memorialization,1868: technical terminology and references related to organizations or specific fields
+126,0.1364,"14313: the presence of introductory elements in the text, such as special formatting or markers",15097: references to demographic shifts and voting patterns among different groups
+127,0.1356,10438: biological processes and medical terminology related to diagnostics,12989:  mathematical expressions related to calculus and differential equations
+128,0.1354,1413: URLs and web resource links,"6028: terms related to conditions, requirements, and limitations in various contexts"
+129,0.1351,2544: words and phrases related to consistency and standardization in design,13065: elements related to encoding and document processing in programming contexts
+130,0.1344,6966: elements of code and programming constructs,13744: terms related to health conditions and their classifications
+131,0.1335,3434: programming-related keywords and attributes from assembly code or metadata,6884: descriptive phrases related to trails and their conditions
+132,0.1329,4571:  semicolon-separated statements and variable assignments in code,16287: terms related to quantification and measurement in various contexts
+133,0.1323,1522: terms related to population dynamics and genetic variation,"9289: numeric values and structured formats, particularly those that appear in data representations and web links"
+134,0.1323,4584: phrases related to statistical measurements and observed data frequencies,682: elements and attributes related to web development
+135,0.1321,15648:  C programming constructs related to defining functions and managing data structures,1868: technical terminology and references related to organizations or specific fields
+136,0.132,5635: the interactions and relationships between variables in a data set,"9932: functions and events related to programming, particularly those involving event handling and listener methods"
+137,0.132,"5921: keywords related to scientific, medical, and technical terminology",938:  import statements and module references in code
+138,0.1318,15598: phrases related to decline or loss over time,1736: temporal references and the notion of prior events
+139,0.1317,13436: terms related to data structures and configurations in programming,401: specific code structures or syntax patterns in programming or technical texts
+140,0.131,7618: references to personal relationships and emotional connections,1868: technical terminology and references related to organizations or specific fields
+141,0.1304,11837: terms related to statistical analysis and mathematical functions,14689:  numerical values and phone numbers
+142,0.1304,9857: dates and numerical values,1868: technical terminology and references related to organizations or specific fields
+143,0.13,2777: references to neural network architectures and their associated training methodologies,7280:  references to financial years and seasons
+144,0.1299,"6591: specific identifiers, likely related to names or references in academic or technical contexts",10669: references to morning and morning-related activities
+145,0.1294,12523: terms related to regulations and conditions for financial and research contexts,9511: punctuation and its use in sentence structure
+146,0.1292,13492: numerical data and date representations,2157: statistical terms related to probability density functions
+147,0.1292,"13351: definitions and explanations related to the term ""host,"" particularly in the context of events and leadership roles",7796: elements related to code syntax and structure in programming
+148,0.129,"9932: functions and events related to programming, particularly those involving event handling and listener methods",14870: concepts related to medical research and treatment
+149,0.1288,6675: code and formatting elements within a document,"13018: specific keywords or titles indicative of various subjects and contexts, such as live events, organizations, and technical processes"
+150,0.1287,4581: information related to specific scientific and technical categories,"14770:  occurrences of the word ""Times."""
+151,0.1285,"15384:  structured data organization, particularly alphabetically ordered lists or categories",3467:  markers indicating the beginning of sections or important headings in the text
+152,0.1284,6966: elements of code and programming constructs,7783: numerical measurements and units of measurement
+153,0.1278,"9289: numeric values and structured formats, particularly those that appear in data representations and web links",2446:  terms associated with matching or comparisons in various contexts
+154,0.1278,7314:  punctuation marks such as quotation marks and apostrophes,12401:  citations and references in scientific literature
+155,0.1273,1248: connections between genetic traits and their adaptive evolutionary influences,3561: significant contextual markers or structural cues within scientific or technical writing
+156,0.1268,"105: special formatting and certain structural elements in the text, including symbols and patterns",829:  mathematical expressions and formulas
+157,0.1267,499: features and attributes related to product descriptions and specifications,6599:  sections of text that contain scientific or technical jargon related to genetics or molecular biology
+158,0.1265,7854: complex mathematical or scientific expressions and terminologies,16165: terms related to emergency preparedness and response
+159,0.1262,8931:  restaurant reviews that mention food quality and dining experiences,11633: elements related to code structure and organization in programming
+160,0.1261,13924:  references to promotions or discounts associated with products,2658:  numerical values and associated variables or parameters
+161,0.1259,16271: references to memorials and celebrations of life,"11671: terms related to statistical parameters and coefficients, particularly in the context of regression analysis"
+162,0.1257,5635: the interactions and relationships between variables in a data set,8117: names of countries and items related to gender equality and healthcare
+163,0.1257,13492: numerical data and date representations,6293: elements related to mold removal and cleaning
+164,0.1254,499: features and attributes related to product descriptions and specifications,9841: technical classifications and descriptions of systems or devices
+165,0.1252,12760: specific medical conditions and treatment-related terms,1522: terms related to population dynamics and genetic variation
+166,0.1251,14689:  numerical values and phone numbers,4701: references to mathematical or scientific elements and principles
+167,0.1248,3605: sections of text that contain any structured or numerical data,3005: references to academic articles and their corresponding digital object identifiers (DOIs)
+168,0.1247,7116: details related to software updates and version releases,4578: instances of significant economic terminology related to health and medicine
+169,0.1244,16287: terms related to quantification and measurement in various contexts,4571:  semicolon-separated statements and variable assignments in code
+170,0.1243,6293: elements related to mold removal and cleaning,8931:  restaurant reviews that mention food quality and dining experiences
+171,0.12427,4318: references to presidential transitions and related events,15524: elements related to experimental conditions and their impact on biological processes
+172,0.1241,6966: elements of code and programming constructs,3068: assertions or statements of fact that are supported or validated by evidence
+173,0.124,"1171:  sentiments reflecting on past decisions, particularly feelings of regret or satisfaction",1023: comma-separated lists or sequences of items
+174,0.12396,"13351: definitions and explanations related to the term ""host,"" particularly in the context of events and leadership roles",10788:  technical terms and parameters related to performance metrics
+175,0.1239,9620: structured data related to telecommunication statistics and subscription details,14689:  numerical values and phone numbers
+176,0.1234,7919:  code-related terms and concepts,4658: dates and specific events related to December
+177,0.1232,10438: biological processes and medical terminology related to diagnostics,7507: numerical data and references related to statistics and measurements
+178,0.1231,"3552: phrases and synonyms related to the term ""great.""",3561: significant contextual markers or structural cues within scientific or technical writing
+179,0.12286,2157: statistical terms related to probability density functions,6293: elements related to mold removal and cleaning
+180,0.12274,"6591: specific identifiers, likely related to names or references in academic or technical contexts","11671: terms related to statistical parameters and coefficients, particularly in the context of regression analysis"
+181,0.1227,16271: references to memorials and celebrations of life,14781: elements related to user interaction and token verification in a digital workspace
+182,0.1227,11805: references to significant achievements or records in sports,6290: terms related to artistic works and their presentation
+183,0.1219,10438: biological processes and medical terminology related to diagnostics,13046:  mathematical symbols and parameters related to equations and functions
+184,0.1217,11805: references to significant achievements or records in sports,13805: conditional phrases or questions
+185,0.1215,11805: references to significant achievements or records in sports,9295: terms related to programming exceptions and errors in software development
+186,0.1213,"3901:  code-related elements and structures, particularly loops and conditional statements",7796: elements related to code syntax and structure in programming
+187,0.12115,14656:  references to HTML and JavaScript coding elements,8431:  introductory phrases and identifiers in text
+188,0.1211,11805: references to significant achievements or records in sports,"11347: elements of code, particularly focusing on the structure and syntax of expressions involving regular expressions and programming constructs"
+189,0.1204,"9932: functions and events related to programming, particularly those involving event handling and listener methods",619: names of individuals and their affiliations or roles in a social context
+190,0.1204,"13351: definitions and explanations related to the term ""host,"" particularly in the context of events and leadership roles",9964: email addresses and associated contact information
+191,0.1201,14656:  references to HTML and JavaScript coding elements,11493: elements related to database operations and optimizations
+192,0.12006,9841: technical classifications and descriptions of systems or devices,6599:  sections of text that contain scientific or technical jargon related to genetics or molecular biology
+193,0.12,13052: terms related to gender norms and their implications for family planning,"185: scientific terms and concepts related to experiments, data analysis, and genetic diversity"
+194,0.11957,"6602: sentences that emphasize the subject ""it"" in various contexts",10479:  script-related commands and functions in JavaScript
+195,0.11957,14376: emphasis markers and formatting elements in documents,10438: biological processes and medical terminology related to diagnostics
+196,0.11957,"8881: terms related to medical treatments and studies, particularly in clinical contexts",4719:  quotes from various individuals in a narrative context
+197,0.11926,7178: terms related to scientific processes and structures,7786: punctuation marks that indicate emphasis or separation
+198,0.1192,14947: references to specific combat sports events or match details,11370: the beginning of a document or passage
+199,0.1191,14781: elements related to user interaction and token verification in a digital workspace,11205:  technical terms related to protocols and guidelines in emergency preparedness
+200,0.1189,"11957: Java access modifiers, specifically ""public"" and ""protected""",6118: structural elements and identifiers in data or documents
+201,0.11884,10438: biological processes and medical terminology related to diagnostics,926:  numerical data and statistical references in research contexts
+202,0.1186,14870: concepts related to medical research and treatment,5318: references to significant places or institutions
+203,0.1182,13977:  anticipated features and updates for software applications,12011:  sequences of numerical data or statistics
+204,0.11786,11205:  technical terms related to protocols and guidelines in emergency preparedness,14781: elements related to user interaction and token verification in a digital workspace
+205,0.1178,"10023:  programming-related keywords and terms, particularly related to data structures or classes in code",7786: punctuation marks that indicate emphasis or separation
+206,0.1178,14842: numerical values and related characters,1522: terms related to population dynamics and genetic variation
+207,0.11774,16362: ,10028: various genres and elements of music
+208,0.1175,15445: phrases related to numerical values and mathematical expressions,1868: technical terminology and references related to organizations or specific fields
+209,0.1175,"105: special formatting and certain structural elements in the text, including symbols and patterns","16308: transitions and changes in circumstances, particularly regarding financial transactions and medical procedures"
+210,0.11743,"9289: numeric values and structured formats, particularly those that appear in data representations and web links","13449: patterns of attribute declarations in code, particularly with a focus on identifiers and their properties"
+211,0.1173,7314:  punctuation marks such as quotation marks and apostrophes,15116: references to statistics and categories related to entities
+212,0.11707,11716: references to various types of data structures and their attributes in programming contexts,9681: historical references related to laws and legal cases
+213,0.11694,6599:  sections of text that contain scientific or technical jargon related to genetics or molecular biology,7314:  punctuation marks such as quotation marks and apostrophes
+214,0.11676,13546: complex scientific terminology related to biology and environmental science,9295: terms related to programming exceptions and errors in software development
+215,0.1166,7116: details related to software updates and version releases,12011:  sequences of numerical data or statistics
+216,0.1166,"8881: terms related to medical treatments and studies, particularly in clinical contexts","7604: elements related to technology, innovations, and their implications"
+217,0.1165,3433: terminology and definitions related to context and time in a study,3561: significant contextual markers or structural cues within scientific or technical writing
+218,0.1165,5635: the interactions and relationships between variables in a data set,2036: technical terms and references related to theories and formulas in physics and mathematics
+219,0.11646,1413: URLs and web resource links,9565: phrases related to third-party interactions and data sharing
+220,0.11646,842: opening and closing curly braces in code,1868: technical terminology and references related to organizations or specific fields
+221,0.11615,8787:  references to fluid dynamics or methods involving fluid treatment,8767:  concepts related to environmental sustainability and privacy in data handling
+222,0.1161,14557:  code snippets or programming syntax,10577:  unique characters or patterns that deviate from standard text formatting
+223,0.1161,"15015: <span command="""">JavaScript event handling and functions related to user interactions in web development.</span>","1178: elements of mathematical notation or models, particularly those related to tuberculosis and statistical components"
+224,0.1159,2144: references to family relationships and roles in personal narratives,8767:  concepts related to environmental sustainability and privacy in data handling
+225,0.1157,975:  requests related to HTTP operations and parameters in programming or network contexts,"8027: technical terms related to programming, mathematics, or software features"
+226,0.11554,5912: elements related to archaeological findings and ancient artifacts,14870: concepts related to medical research and treatment
+227,0.11554,11805: references to significant achievements or records in sports,9681: historical references related to laws and legal cases
+228,0.1155,7919:  code-related terms and concepts,1522: terms related to population dynamics and genetic variation
+229,0.1154,"13351: definitions and explanations related to the term ""host,"" particularly in the context of events and leadership roles",8437: data references and statistics related to biological experiments
+230,0.1154,619: names of individuals and their affiliations or roles in a social context,"9932: functions and events related to programming, particularly those involving event handling and listener methods"
+231,0.11523,11805: references to significant achievements or records in sports,"16308: transitions and changes in circumstances, particularly regarding financial transactions and medical procedures"
+232,0.11523,1522: terms related to population dynamics and genetic variation,14842: numerical values and related characters
+233,0.1152,"8252:  mentions of the ""mi"" RNA family",14538:  recurrent phrases indicating repetition or continuation

@@ -1,0 +1,484 @@
+,QK Circuit Value,Key Feature,Query Feature
+0,0.745,3673: terms and phrases related to reproductive health and fertility,406: issues related to functionality and errors in programming or web development
+1,0.6816,406: issues related to functionality and errors in programming or web development,3673: terms and phrases related to reproductive health and fertility
+2,0.499,15108:  concepts and discussions related to health care policies and decision-making processes,6013: scientific terms related to genetic mutations and mathematical concepts
+3,0.4856,2843: code structure and definitions commonly used in programming,573: references to personal experiences and perceptions
+4,0.481,6013: scientific terms related to genetic mutations and mathematical concepts,15108:  concepts and discussions related to health care policies and decision-making processes
+5,0.4553,9127: words or phrases that describe strength or capability,573: references to personal experiences and perceptions
+6,0.4512,10937: network communication operations and protocols,2352: mentions of specific individuals and organizations involved in political or legal contexts
+7,0.4463,406: issues related to functionality and errors in programming or web development,6409: conditional statements and expressions of uncertainty or potential outcomes
+8,0.4373,406: issues related to functionality and errors in programming or web development,3261: questions related to personal experiences and advice
+9,0.4272,5549: statistical numbers and numerical data related to measurements,"4618: references to time, specifically the concept of ""year"" and its variants"
+10,0.4226,3261: questions related to personal experiences and advice,406: issues related to functionality and errors in programming or web development
+11,0.4177,8848:  numerical data and statistics,11025: technical terms and references related to systems and methodologies in scientific or engineering contexts
+12,0.4124,406: issues related to functionality and errors in programming or web development,9567: instances of common nouns and phrases related to food and dining contexts
+13,0.406,8003: sentences that express opinions or reflections on societal issues,1560: instances of research study references and methodological language
+14,0.3977,"1749: phrases that describe conditions, requirements, or parameters related to systems or processes",8848:  numerical data and statistics
+15,0.3975,3673: terms and phrases related to reproductive health and fertility,3261: questions related to personal experiences and advice
+16,0.396,573: references to personal experiences and perceptions,2843: code structure and definitions commonly used in programming
+17,0.395,6409: conditional statements and expressions of uncertainty or potential outcomes,1560: instances of research study references and methodological language
+18,0.3887,573: references to personal experiences and perceptions,10937: network communication operations and protocols
+19,0.3862,15108:  concepts and discussions related to health care policies and decision-making processes,"4618: references to time, specifically the concept of ""year"" and its variants"
+20,0.3743,9567: instances of common nouns and phrases related to food and dining contexts,406: issues related to functionality and errors in programming or web development
+21,0.3708,3261: questions related to personal experiences and advice,3673: terms and phrases related to reproductive health and fertility
+22,0.3628,2843: code structure and definitions commonly used in programming,10937: network communication operations and protocols
+23,0.3618,12028: terms related to energy efficiency and the operation of air conditioning systems,13552: information related to scientific methodologies or experimental processes
+24,0.3564,"4618: references to time, specifically the concept of ""year"" and its variants",5549: statistical numbers and numerical data related to measurements
+25,0.349,8848:  numerical data and statistics,13842: terms related to depression and mental health diagnosis
+26,0.3438,11025: technical terms and references related to systems and methodologies in scientific or engineering contexts,8848:  numerical data and statistics
+27,0.3384,5549: statistical numbers and numerical data related to measurements,1369: descriptive terms related to horror and extreme negative experiences
+28,0.3333,5467:  variables and parameters related to data and experimental results,8848:  numerical data and statistics
+29,0.3323,10937: network communication operations and protocols,14620: mathematical symbols and expressions related to functions and operations
+30,0.328,15743:  boolean values and their assignments in programming code,920: elements related to digital file management and application settings
+31,0.3223,"4618: references to time, specifically the concept of ""year"" and its variants",15108:  concepts and discussions related to health care policies and decision-making processes
+32,0.3198,7421: mention of fishing-related terms and phrases,8003: sentences that express opinions or reflections on societal issues
+33,0.3186,3511: references to Disney and its associated characters or franchises,8848:  numerical data and statistics
+34,0.3167,2439: discussions about political scenarios and consequences,8003: sentences that express opinions or reflections on societal issues
+35,0.3162,5677: references to actions or decisions related to judgments or assessments,8003: sentences that express opinions or reflections on societal issues
+36,0.3152,6409: conditional statements and expressions of uncertainty or potential outcomes,406: issues related to functionality and errors in programming or web development
+37,0.3142,1263: references to population statistics and demographics,6409: conditional statements and expressions of uncertainty or potential outcomes
+38,0.3142,8003: sentences that express opinions or reflections on societal issues,9567: instances of common nouns and phrases related to food and dining contexts
+39,0.31,295: terms related to trade and its complexities or implications,7647: expressions of gratitude and appreciation
+40,0.3076,8003: sentences that express opinions or reflections on societal issues,5677: references to actions or decisions related to judgments or assessments
+41,0.3064,2843: code structure and definitions commonly used in programming,2352: mentions of specific individuals and organizations involved in political or legal contexts
+42,0.304,16238:  phrases related to structures and mechanisms in technology and science,5549: statistical numbers and numerical data related to measurements
+43,0.303,295: terms related to trade and its complexities or implications,8191:  occurrences of specific variable declarations or iterations in code
+44,0.2993,15743:  boolean values and their assignments in programming code,9127: words or phrases that describe strength or capability
+45,0.2988,5549: statistical numbers and numerical data related to measurements,15108:  concepts and discussions related to health care policies and decision-making processes
+46,0.2983,12028: terms related to energy efficiency and the operation of air conditioning systems,16281: keywords and structure related to programming logic and operations
+47,0.2964,"10044: mentions of family relationships, particularly focusing on the description of a deceased person and their relatives",8848:  numerical data and statistics
+48,0.296,14300:  phrases related to legal and bureaucratic processes,573: references to personal experiences and perceptions
+49,0.295,9567: instances of common nouns and phrases related to food and dining contexts,8003: sentences that express opinions or reflections on societal issues
+50,0.295,8848:  numerical data and statistics,"1749: phrases that describe conditions, requirements, or parameters related to systems or processes"
+51,0.2917,2352: mentions of specific individuals and organizations involved in political or legal contexts,10937: network communication operations and protocols
+52,0.2896,8003: sentences that express opinions or reflections on societal issues,"10634: structured data representations, particularly those related to nodes and their attributes in a code or algorithm context"
+53,0.2888,"2585: specific alphanumeric sequences, especially relating to variable names or identifiers",8822: highly technical and mathematical terminology related to algebraic geometry and abstract algebra concepts
+54,0.2883,1369: descriptive terms related to horror and extreme negative experiences,5549: statistical numbers and numerical data related to measurements
+55,0.2866,406: issues related to functionality and errors in programming or web development,4487: scheduled events and their timings
+56,0.2864,"4618: references to time, specifically the concept of ""year"" and its variants",2989: statistical significance indicators in research findings
+57,0.2852,8822: highly technical and mathematical terminology related to algebraic geometry and abstract algebra concepts,12937:  terms related to software licensing and redistribution
+58,0.2847,3598: terms associated with technical specifications and measurements,573: references to personal experiences and perceptions
+59,0.2832,3673: terms and phrases related to reproductive health and fertility,9567: instances of common nouns and phrases related to food and dining contexts
+60,0.2832,2989: statistical significance indicators in research findings,"4618: references to time, specifically the concept of ""year"" and its variants"
+61,0.28,573: references to personal experiences and perceptions,3598: terms associated with technical specifications and measurements
+62,0.2793,3523: references to leadership and personal connections within a narrative context,8848:  numerical data and statistics
+63,0.279,7850: descriptive features and specifications related to audio equipment,8003: sentences that express opinions or reflections on societal issues
+64,0.2766,11299: legal terms and references related to petitions and administrative processes,8848:  numerical data and statistics
+65,0.276,9127: words or phrases that describe strength or capability,920: elements related to digital file management and application settings
+66,0.2754,8848:  numerical data and statistics,96: informational elements and specifics related to chemical compounds and classification
+67,0.2698,14628:  phrases and words related to presentation or conveying information,8003: sentences that express opinions or reflections on societal issues
+68,0.267,96: informational elements and specifics related to chemical compounds and classification,8848:  numerical data and statistics
+69,0.2659,"12186: references to specific scientific concepts and their associated terminologies, especially in the context of biological or computational research",6409: conditional statements and expressions of uncertainty or potential outcomes
+70,0.2644,9127: words or phrases that describe strength or capability,9368:  phrases indicating reported speech or explanations
+71,0.2637,5549: statistical numbers and numerical data related to measurements,"7868: terms related to medical and laboratory equipment, processes, and measurements"
+72,0.2632,9127: words or phrases that describe strength or capability,2843: code structure and definitions commonly used in programming
+73,0.2607,11444: email addresses or domains related to electronic communication,8848:  numerical data and statistics
+74,0.2605,2918: phrases expressing opinions or arguments regarding political issues,406: issues related to functionality and errors in programming or web development
+75,0.26,15108:  concepts and discussions related to health care policies and decision-making processes,1620: quoted remarks or comments in the text
+76,0.2595,"5176: terms and phrases related to computing, data processing, and technology",5549: statistical numbers and numerical data related to measurements
+77,0.2585,2352: mentions of specific individuals and organizations involved in political or legal contexts,14620: mathematical symbols and expressions related to functions and operations
+78,0.258,2437:  phrases that express emotional or subjective experiences,8848:  numerical data and statistics
+79,0.2578,5549: statistical numbers and numerical data related to measurements,16238:  phrases related to structures and mechanisms in technology and science
+80,0.2566,"7868: terms related to medical and laboratory equipment, processes, and measurements",5549: statistical numbers and numerical data related to measurements
+81,0.2563,205: scientific terms and entities related to research studies,8848:  numerical data and statistics
+82,0.2559,3261: questions related to personal experiences and advice,3598: terms associated with technical specifications and measurements
+83,0.2556,573: references to personal experiences and perceptions,2352: mentions of specific individuals and organizations involved in political or legal contexts
+84,0.2554,5677: references to actions or decisions related to judgments or assessments,"4618: references to time, specifically the concept of ""year"" and its variants"
+85,0.255,15108:  concepts and discussions related to health care policies and decision-making processes,87:  programmatic constructs and conditions related to feedback mechanisms
+86,0.2544,3598: terms associated with technical specifications and measurements,3261: questions related to personal experiences and advice
+87,0.2527,8822: highly technical and mathematical terminology related to algebraic geometry and abstract algebra concepts,2989: statistical significance indicators in research findings
+88,0.2527,5112: prominent numerical values and their relationships within the text,15108:  concepts and discussions related to health care policies and decision-making processes
+89,0.2505,8848:  numerical data and statistics,205: scientific terms and entities related to research studies
+90,0.2489,8648: punctuation marks and parentheses,9127: words or phrases that describe strength or capability
+91,0.2477,6409: conditional statements and expressions of uncertainty or potential outcomes,15863: terms and phrases related to depth and profoundness in various contexts
+92,0.2476,15108:  concepts and discussions related to health care policies and decision-making processes,5677: references to actions or decisions related to judgments or assessments
+93,0.2476,5549: statistical numbers and numerical data related to measurements,"5176: terms and phrases related to computing, data processing, and technology"
+94,0.2473,9567: instances of common nouns and phrases related to food and dining contexts,3673: terms and phrases related to reproductive health and fertility
+95,0.2468,"6601:  the presence of markup or structural elements in programming or technical contexts, such as special characters or formatting indicators",15108:  concepts and discussions related to health care policies and decision-making processes
+96,0.2454,8822: highly technical and mathematical terminology related to algebraic geometry and abstract algebra concepts,6409: conditional statements and expressions of uncertainty or potential outcomes
+97,0.2443,15607: legal terms and references related to courtroom procedures and rights,6304: legal terminology and concepts related to discrimination and harassment cases
+98,0.2423,6325: sections of the document that contain numerical values or references to data,8848:  numerical data and statistics
+99,0.2417,6304: legal terminology and concepts related to discrimination and harassment cases,16281: keywords and structure related to programming logic and operations
+100,0.2416,1727: terms related to genetic markers or sequences,8848:  numerical data and statistics
+101,0.2415,12261: phrases that express disbelief or the need for validation of information,6409: conditional statements and expressions of uncertainty or potential outcomes
+102,0.2379,13552: information related to scientific methodologies or experimental processes,13975: distinctive or important identifiers in a dataset
+103,0.2375,2989: statistical significance indicators in research findings,8822: highly technical and mathematical terminology related to algebraic geometry and abstract algebra concepts
+104,0.237,14377: phrases related to removal or elimination,8003: sentences that express opinions or reflections on societal issues
+105,0.237,3673: terms and phrases related to reproductive health and fertility,4487: scheduled events and their timings
+106,0.2356,10937: network communication operations and protocols,573: references to personal experiences and perceptions
+107,0.2355,8848:  numerical data and statistics,"15454: content related to governance, policy, and ethical considerations in research and technology"
+108,0.2346,3598: terms associated with technical specifications and measurements,2843: code structure and definitions commonly used in programming
+109,0.2346,3598: terms associated with technical specifications and measurements,9368:  phrases indicating reported speech or explanations
+110,0.2344,5677: references to actions or decisions related to judgments or assessments,15108:  concepts and discussions related to health care policies and decision-making processes
+111,0.233,286: phrases that highlight key components or concepts in a scientific or technical context,6409: conditional statements and expressions of uncertainty or potential outcomes
+112,0.2327,3598: terms associated with technical specifications and measurements,920: elements related to digital file management and application settings
+113,0.2324,1480: legal terminology related to parental rights and citizenship,6304: legal terminology and concepts related to discrimination and harassment cases
+114,0.232,15108:  concepts and discussions related to health care policies and decision-making processes,5549: statistical numbers and numerical data related to measurements
+115,0.2314,6409: conditional statements and expressions of uncertainty or potential outcomes,1263: references to population statistics and demographics
+116,0.2312,2291: technical or mathematical symbols and terms,6409: conditional statements and expressions of uncertainty or potential outcomes
+117,0.2312,8699:  references to statistical data or results in a scientific context,8848:  numerical data and statistics
+118,0.231,"10634: structured data representations, particularly those related to nodes and their attributes in a code or algorithm context",8003: sentences that express opinions or reflections on societal issues
+119,0.231,5677: references to actions or decisions related to judgments or assessments,5549: statistical numbers and numerical data related to measurements
+120,0.2302,8848:  numerical data and statistics,3511: references to Disney and its associated characters or franchises
+121,0.2299,5000: concepts related to responsibility and accountability in various contexts,8003: sentences that express opinions or reflections on societal issues
+122,0.2292,12937:  terms related to software licensing and redistribution,1577: terms related to scientific reagents and their usage in experimental procedures
+123,0.229,"4618: references to time, specifically the concept of ""year"" and its variants",5677: references to actions or decisions related to judgments or assessments
+124,0.2289,16238:  phrases related to structures and mechanisms in technology and science,15108:  concepts and discussions related to health care policies and decision-making processes
+125,0.2286,8848:  numerical data and statistics,5623: references to specific locations and notable figures
+126,0.2286,406: issues related to functionality and errors in programming or web development,11425: mathematical expressions and notation
+127,0.2281,11702: terms indicating global reach and international presence,11243:  punctuation marks and other non-word tokens
+128,0.2278,16205:  structured data expressions and command syntax in programming contexts,16281: keywords and structure related to programming logic and operations
+129,0.227,406: issues related to functionality and errors in programming or web development,2918: phrases expressing opinions or arguments regarding political issues
+130,0.2268,8848:  numerical data and statistics,2990: code-related terminology and functions in programming documentation
+131,0.226,2989: statistical significance indicators in research findings,5112: prominent numerical values and their relationships within the text
+132,0.2258,6409: conditional statements and expressions of uncertainty or potential outcomes,286: phrases that highlight key components or concepts in a scientific or technical context
+133,0.2246,6409: conditional statements and expressions of uncertainty or potential outcomes,12261: phrases that express disbelief or the need for validation of information
+134,0.2241,5109: terms related to stem cell research and differentiation processes,5549: statistical numbers and numerical data related to measurements
+135,0.224,15108:  concepts and discussions related to health care policies and decision-making processes,5112: prominent numerical values and their relationships within the text
+136,0.2231,8848:  numerical data and statistics,11444: email addresses or domains related to electronic communication
+137,0.2228,4487: scheduled events and their timings,406: issues related to functionality and errors in programming or web development
+138,0.2227,8648: punctuation marks and parentheses,573: references to personal experiences and perceptions
+139,0.2217,6409: conditional statements and expressions of uncertainty or potential outcomes,2291: technical or mathematical symbols and terms
+140,0.2207,3598: terms associated with technical specifications and measurements,"11236:  code-related operations, particularly those involving function calls and return statements"
+141,0.2205,8822: highly technical and mathematical terminology related to algebraic geometry and abstract algebra concepts,7647: expressions of gratitude and appreciation
+142,0.2198,406: issues related to functionality and errors in programming or web development,1987:  questions and lists related to information retrieval
+143,0.2198,3673: terms and phrases related to reproductive health and fertility,4232: medical conditions and associated statistics
+144,0.2195,6409: conditional statements and expressions of uncertainty or potential outcomes,8822: highly technical and mathematical terminology related to algebraic geometry and abstract algebra concepts
+145,0.2189,12580: syntax and structure elements within code snippets or programming languages,8848:  numerical data and statistics
+146,0.2188,6409: conditional statements and expressions of uncertainty or potential outcomes,"12186: references to specific scientific concepts and their associated terminologies, especially in the context of biological or computational research"
+147,0.2185,4768: conditional statements and their structure in programming,15108:  concepts and discussions related to health care policies and decision-making processes
+148,0.2177,3673: terms and phrases related to reproductive health and fertility,3598: terms associated with technical specifications and measurements
+149,0.2169,4086:  numerical data related to health metrics or medical values,8003: sentences that express opinions or reflections on societal issues
+150,0.2163,14620: mathematical symbols and expressions related to functions and operations,2352: mentions of specific individuals and organizations involved in political or legal contexts
+151,0.2158,8848:  numerical data and statistics,8129:  mentions of Canada and its regions
+152,0.2147,5549: statistical numbers and numerical data related to measurements,6013: scientific terms related to genetic mutations and mathematical concepts
+153,0.2125,1987:  questions and lists related to information retrieval,406: issues related to functionality and errors in programming or web development
+154,0.2118,8848:  numerical data and statistics,11299: legal terms and references related to petitions and administrative processes
+155,0.2114,8848:  numerical data and statistics,3523: references to leadership and personal connections within a narrative context
+156,0.2103,573: references to personal experiences and perceptions,920: elements related to digital file management and application settings
+157,0.2096,9751: terms related to roofing materials and structures,8003: sentences that express opinions or reflections on societal issues
+158,0.2095,10714:  phrases related to commitment and purpose,15108:  concepts and discussions related to health care policies and decision-making processes
+159,0.2094,5549: statistical numbers and numerical data related to measurements,4210: references to genetic sequences and their analysis
+160,0.2091,1222: references to collaboration and cooperation,8848:  numerical data and statistics
+161,0.2087,8848:  numerical data and statistics,12580: syntax and structure elements within code snippets or programming languages
+162,0.2083,3261: questions related to personal experiences and advice,6409: conditional statements and expressions of uncertainty or potential outcomes
+163,0.2076,9567: instances of common nouns and phrases related to food and dining contexts,2918: phrases expressing opinions or arguments regarding political issues
+164,0.2064,406: issues related to functionality and errors in programming or web development,4232: medical conditions and associated statistics
+165,0.2051,5112: prominent numerical values and their relationships within the text,2989: statistical significance indicators in research findings
+166,0.2043,10848: information related to age and life experiences,5549: statistical numbers and numerical data related to measurements
+167,0.2042,10012: numerical values or statistics related to data analysis,6304: legal terminology and concepts related to discrimination and harassment cases
+168,0.204,8848:  numerical data and statistics,6325: sections of the document that contain numerical values or references to data
+169,0.2036,2989: statistical significance indicators in research findings,16241: legal terminology related to court cases and appeals
+170,0.203,12937:  terms related to software licensing and redistribution,8822: highly technical and mathematical terminology related to algebraic geometry and abstract algebra concepts
+171,0.2024,15743:  boolean values and their assignments in programming code,573: references to personal experiences and perceptions
+172,0.2021,"7422: references to the introduction and addition of new elements or features, particularly in a technical or formal context",573: references to personal experiences and perceptions
+173,0.202,295: terms related to trade and its complexities or implications,8822: highly technical and mathematical terminology related to algebraic geometry and abstract algebra concepts
+174,0.2019,3598: terms associated with technical specifications and measurements,9127: words or phrases that describe strength or capability
+175,0.2015,15108:  concepts and discussions related to health care policies and decision-making processes,14620: mathematical symbols and expressions related to functions and operations
+176,0.2013,"11236:  code-related operations, particularly those involving function calls and return statements",3598: terms associated with technical specifications and measurements
+177,0.2013,8648: punctuation marks and parentheses,920: elements related to digital file management and application settings
+178,0.2006,10937: network communication operations and protocols,15108:  concepts and discussions related to health care policies and decision-making processes
+179,0.2004,2918: phrases expressing opinions or arguments regarding political issues,920: elements related to digital file management and application settings
+180,0.2003,15743:  boolean values and their assignments in programming code,2918: phrases expressing opinions or arguments regarding political issues
+181,0.1997,8822: highly technical and mathematical terminology related to algebraic geometry and abstract algebra concepts,8191:  occurrences of specific variable declarations or iterations in code
+182,0.1995,7140: numerical values and statistics related to data analysis and research findings,8003: sentences that express opinions or reflections on societal issues
+183,0.1992,5549: statistical numbers and numerical data related to measurements,5677: references to actions or decisions related to judgments or assessments
+184,0.1987,8003: sentences that express opinions or reflections on societal issues,5000: concepts related to responsibility and accountability in various contexts
+185,0.1986,6409: conditional statements and expressions of uncertainty or potential outcomes,3261: questions related to personal experiences and advice
+186,0.1973,6409: conditional statements and expressions of uncertainty or potential outcomes,12509: words related to plugins and their configurations
+187,0.1971,406: issues related to functionality and errors in programming or web development,16135: references to null or nonexistent values in programming contexts
+188,0.1968,6106: terms related to methods and properties in scientific or technical contexts,15108:  concepts and discussions related to health care policies and decision-making processes
+189,0.1968,8848:  numerical data and statistics,8699:  references to statistical data or results in a scientific context
+190,0.1963,5549: statistical numbers and numerical data related to measurements,5112: prominent numerical values and their relationships within the text
+191,0.1956,15108:  concepts and discussions related to health care policies and decision-making processes,205: scientific terms and entities related to research studies
+192,0.1956,406: issues related to functionality and errors in programming or web development,13025: technical terms related to Java servlets and RESTful web services
+193,0.195,13025: technical terms related to Java servlets and RESTful web services,406: issues related to functionality and errors in programming or web development
+194,0.1945,"5258:  symbols and punctuation marks, particularly related to formatting or code structures",15108:  concepts and discussions related to health care policies and decision-making processes
+195,0.1941,573: references to personal experiences and perceptions,9127: words or phrases that describe strength or capability
+196,0.1937,15108:  concepts and discussions related to health care policies and decision-making processes,10714:  phrases related to commitment and purpose
+197,0.1936,406: issues related to functionality and errors in programming or web development,12142: file paths within a Windows operating system context
+198,0.1932,998: elements related to React component structures and their properties,5549: statistical numbers and numerical data related to measurements
+199,0.193,4158: elements of programming syntax and structure,8848:  numerical data and statistics
+200,0.1929,4280: mathematical or scientific notation related to variables or parameters in equations,573: references to personal experiences and perceptions
+201,0.1927,10753: references to construction activities and related terminology,5549: statistical numbers and numerical data related to measurements
+202,0.1923,1704: quantitative data points and statistics,9127: words or phrases that describe strength or capability
+203,0.1918,15108:  concepts and discussions related to health care policies and decision-making processes,379:  occurrences of legal terminology and references to judicial processes
+204,0.1918,15743:  boolean values and their assignments in programming code,11087: specific structural elements or commands in programming and mathematical contexts
+205,0.1915,"1504:  references to individuals' names and titles, particularly in a biographical context",8003: sentences that express opinions or reflections on societal issues
+206,0.191,"11522: discussions of political statements and actions, particularly related to election integrity and governance",6409: conditional statements and expressions of uncertainty or potential outcomes
+207,0.191,3673: terms and phrases related to reproductive health and fertility,11425: mathematical expressions and notation
+208,0.191,15743:  boolean values and their assignments in programming code,9368:  phrases indicating reported speech or explanations
+209,0.1906,16091: attributes of sound quality and technical aspects related to sound processing,8003: sentences that express opinions or reflections on societal issues
+210,0.1902,8003: sentences that express opinions or reflections on societal issues,4086:  numerical data related to health metrics or medical values
+211,0.19,800:  instances of individuals expressing opinions or remarks in a discussion or report,8003: sentences that express opinions or reflections on societal issues
+212,0.1897,9322: key statistical or numerical data related to various contexts,6409: conditional statements and expressions of uncertainty or potential outcomes
+213,0.1895,15108:  concepts and discussions related to health care policies and decision-making processes,4709: terms relating to political parties and partisan activities
+214,0.1892,6764: specific programming constructs and function definitions in code,8003: sentences that express opinions or reflections on societal issues
+215,0.189,4230: terms related to weddings and marriage ceremonies,920: elements related to digital file management and application settings
+216,0.1877,406: issues related to functionality and errors in programming or web development,758: elements related to annotations and their usage in code
+217,0.1875,2989: statistical significance indicators in research findings,8191:  occurrences of specific variable declarations or iterations in code
+218,0.1873,1909: references to support and fundraising activities related to dementia research,406: issues related to functionality and errors in programming or web development
+219,0.1871,15108:  concepts and discussions related to health care policies and decision-making processes,10937: network communication operations and protocols
+220,0.187,13927: elements related to programming and error handling in code,8848:  numerical data and statistics
+221,0.1869,15108:  concepts and discussions related to health care policies and decision-making processes,5513: programming and function-related syntax
+222,0.1865,12937:  terms related to software licensing and redistribution,7647: expressions of gratitude and appreciation
+223,0.1864,3598: terms associated with technical specifications and measurements,3673: terms and phrases related to reproductive health and fertility
+224,0.1859,8251: references related to social roles and representation,3673: terms and phrases related to reproductive health and fertility
+225,0.1858,15108:  concepts and discussions related to health care policies and decision-making processes,11823: dialogue and quotation marks in the text
+226,0.1855,15108:  concepts and discussions related to health care policies and decision-making processes,"5258:  symbols and punctuation marks, particularly related to formatting or code structures"
+227,0.1852,1560: instances of research study references and methodological language,8003: sentences that express opinions or reflections on societal issues
+228,0.1846,406: issues related to functionality and errors in programming or web development,7038: phrases and terms related to education and online learning resources
+229,0.1844,5000: concepts related to responsibility and accountability in various contexts,6409: conditional statements and expressions of uncertainty or potential outcomes
+230,0.1843,12597: formats of written content and their structural elements,8003: sentences that express opinions or reflections on societal issues
+231,0.1837,4232: medical conditions and associated statistics,406: issues related to functionality and errors in programming or web development
+232,0.1832,4158: elements of programming syntax and structure,15108:  concepts and discussions related to health care policies and decision-making processes
+233,0.183,3261: questions related to personal experiences and advice,4487: scheduled events and their timings
+234,0.1826,205: scientific terms and entities related to research studies,15108:  concepts and discussions related to health care policies and decision-making processes
+235,0.1826,7647: expressions of gratitude and appreciation,8822: highly technical and mathematical terminology related to algebraic geometry and abstract algebra concepts
+236,0.1824,2918: phrases expressing opinions or arguments regarding political issues,6409: conditional statements and expressions of uncertainty or potential outcomes
+237,0.1824,5549: statistical numbers and numerical data related to measurements,8577:  expressions of cuteness and endearment
+238,0.1821,1336: event handling and user interaction functions in programming contexts,920: elements related to digital file management and application settings
+239,0.182,8003: sentences that express opinions or reflections on societal issues,7140: numerical values and statistics related to data analysis and research findings
+240,0.182,15108:  concepts and discussions related to health care policies and decision-making processes,13842: terms related to depression and mental health diagnosis
+241,0.1818,3673: terms and phrases related to reproductive health and fertility,2918: phrases expressing opinions or arguments regarding political issues
+242,0.1816,4487: scheduled events and their timings,3673: terms and phrases related to reproductive health and fertility
+243,0.1815,12580: syntax and structure elements within code snippets or programming languages,15108:  concepts and discussions related to health care policies and decision-making processes
+244,0.1813,8848:  numerical data and statistics,10937: network communication operations and protocols
+245,0.1813,15108:  concepts and discussions related to health care policies and decision-making processes,2352: mentions of specific individuals and organizations involved in political or legal contexts
+246,0.1812,8848:  numerical data and statistics,15804: array-related syntax and operations
+247,0.1812,16135: references to null or nonexistent values in programming contexts,406: issues related to functionality and errors in programming or web development
+248,0.1807,12368: conjunctions and punctuation marks indicating lists or series,5677: references to actions or decisions related to judgments or assessments
+249,0.1794,15743:  boolean values and their assignments in programming code,5005: references to various aspects of the market
+250,0.1794,5652: special formatting elements or structures in the text,3598: terms associated with technical specifications and measurements
+251,0.1793,573: references to personal experiences and perceptions,15108:  concepts and discussions related to health care policies and decision-making processes
+252,0.1792,8003: sentences that express opinions or reflections on societal issues,14377: phrases related to removal or elimination
+253,0.1792,8003: sentences that express opinions or reflections on societal issues,7421: mention of fishing-related terms and phrases
+254,0.1791,12937:  terms related to software licensing and redistribution,2989: statistical significance indicators in research findings
+255,0.1791,13842: terms related to depression and mental health diagnosis,87:  programmatic constructs and conditions related to feedback mechanisms
+256,0.1788,14582: special characters and formatting symbols used in programming or document structure,8848:  numerical data and statistics
+257,0.1785,15743:  boolean values and their assignments in programming code,87:  programmatic constructs and conditions related to feedback mechanisms
+258,0.1783,"11575:  programming-related keywords and concepts, particularly those pertaining to promises and observables in code",15108:  concepts and discussions related to health care policies and decision-making processes
+259,0.1779,14300:  phrases related to legal and bureaucratic processes,2843: code structure and definitions commonly used in programming
+260,0.1779,8848:  numerical data and statistics,1222: references to collaboration and cooperation
+261,0.1777,15108:  concepts and discussions related to health care policies and decision-making processes,9256: patterns of numerical data or references
+262,0.1777,4230: terms related to weddings and marriage ceremonies,"321: mathematical symbols and references to scientific notation, particularly involving complex variables and relations in research contexts"
+263,0.1776,"12230: specific programming constructs, particularly related to graphical user interface (GUI) elements and their properties",8822: highly technical and mathematical terminology related to algebraic geometry and abstract algebra concepts
+264,0.1775,1909: references to support and fundraising activities related to dementia research,3673: terms and phrases related to reproductive health and fertility
+265,0.1771,6013: scientific terms related to genetic mutations and mathematical concepts,2352: mentions of specific individuals and organizations involved in political or legal contexts
+266,0.1766,13842: terms related to depression and mental health diagnosis,8848:  numerical data and statistics
+267,0.1765,909:  non-specific markers or a high frequency of certain characters and symbols in text,8848:  numerical data and statistics
+268,0.1761,9127: words or phrases that describe strength or capability,10937: network communication operations and protocols
+269,0.1761,8848:  numerical data and statistics,2437:  phrases that express emotional or subjective experiences
+270,0.1758,15108:  concepts and discussions related to health care policies and decision-making processes,3447: phrases indicating requirements or specifications related to jobs or services
+271,0.1758,5549: statistical numbers and numerical data related to measurements,12302:  comparisons or checks for inequality in code
+272,0.1757,7131:  discourse surrounding mentorship and guidance,3598: terms associated with technical specifications and measurements
+273,0.1754,1701:  terms related to statistical analysis and measurement,5549: statistical numbers and numerical data related to measurements
+274,0.1754,2586:  biographical details and personal history of individuals,8848:  numerical data and statistics
+275,0.1753,4428: references to specific family names and genealogy-related terms,8191:  occurrences of specific variable declarations or iterations in code
+276,0.1753,15804: array-related syntax and operations,8848:  numerical data and statistics
+277,0.1753,4127: references to locations and their historical significance,8848:  numerical data and statistics
+278,0.1753,8848:  numerical data and statistics,2586:  biographical details and personal history of individuals
+279,0.1752,295: terms related to trade and its complexities or implications,10922: specific references to geographic locations and local governance
+280,0.1748,9122: structured data or specific formatting elements within the text,15108:  concepts and discussions related to health care policies and decision-making processes
+281,0.1746,10937: network communication operations and protocols,6013: scientific terms related to genetic mutations and mathematical concepts
+282,0.1742,15108:  concepts and discussions related to health care policies and decision-making processes,"11575:  programming-related keywords and concepts, particularly those pertaining to promises and observables in code"
+283,0.1741,7647: expressions of gratitude and appreciation,8191:  occurrences of specific variable declarations or iterations in code
+284,0.1738,"10634: structured data representations, particularly those related to nodes and their attributes in a code or algorithm context",1560: instances of research study references and methodological language
+285,0.1738,8680:  references to mental health issues and their impacts,15108:  concepts and discussions related to health care policies and decision-making processes
+286,0.1738,14300:  phrases related to legal and bureaucratic processes,9127: words or phrases that describe strength or capability
+287,0.1737,8848:  numerical data and statistics,1727: terms related to genetic markers or sequences
+288,0.1736,10012: numerical values or statistics related to data analysis,12905:  terms related to computational concepts and scientific terminology
+289,0.1736,2918: phrases expressing opinions or arguments regarding political issues,3673: terms and phrases related to reproductive health and fertility
+290,0.1735,8648: punctuation marks and parentheses,9368:  phrases indicating reported speech or explanations
+291,0.1733,6013: scientific terms related to genetic mutations and mathematical concepts,14620: mathematical symbols and expressions related to functions and operations
+292,0.1729,3673: terms and phrases related to reproductive health and fertility,1987:  questions and lists related to information retrieval
+293,0.1726,14059: date-related information and numerical data,3598: terms associated with technical specifications and measurements
+294,0.1726,6409: conditional statements and expressions of uncertainty or potential outcomes,7647: expressions of gratitude and appreciation
+295,0.1724,6409: conditional statements and expressions of uncertainty or potential outcomes,7619:  references to age and demographic details of individuals
+296,0.1721,2990: code-related terminology and functions in programming documentation,8848:  numerical data and statistics
+297,0.1719,8848:  numerical data and statistics,13927: elements related to programming and error handling in code
+298,0.1715,8003: sentences that express opinions or reflections on societal issues,16091: attributes of sound quality and technical aspects related to sound processing
+299,0.1715,6013: scientific terms related to genetic mutations and mathematical concepts,"4618: references to time, specifically the concept of ""year"" and its variants"
+300,0.1711,14620: mathematical symbols and expressions related to functions and operations,10937: network communication operations and protocols
+301,0.171,6515: references to a specific shoe brand,2989: statistical significance indicators in research findings
+302,0.1709,12142: file paths within a Windows operating system context,406: issues related to functionality and errors in programming or web development
+303,0.1703,3160:  programming syntax and coding structures,2989: statistical significance indicators in research findings
+304,0.17,10753: references to construction activities and related terminology,15108:  concepts and discussions related to health care policies and decision-making processes
+305,0.1699,15108:  concepts and discussions related to health care policies and decision-making processes,573: references to personal experiences and perceptions
+306,0.1699,9978: phrases and concepts related to social interactions and etiquette,8848:  numerical data and statistics
+307,0.1696,14620: mathematical symbols and expressions related to functions and operations,6013: scientific terms related to genetic mutations and mathematical concepts
+308,0.1688,7929: elements related to code iterations and loops,6409: conditional statements and expressions of uncertainty or potential outcomes
+309,0.1686,6409: conditional statements and expressions of uncertainty or potential outcomes,"11522: discussions of political statements and actions, particularly related to election integrity and governance"
+310,0.1683,8003: sentences that express opinions or reflections on societal issues,11203:  structured data elements and their attributes
+311,0.1683,6409: conditional statements and expressions of uncertainty or potential outcomes,1577: terms related to scientific reagents and their usage in experimental procedures
+312,0.1682,9394: references to health-related substances or themes,2989: statistical significance indicators in research findings
+313,0.1682,15710: financial or logistical concerns related to educational or recreational activities,6409: conditional statements and expressions of uncertainty or potential outcomes
+314,0.1681,2989: statistical significance indicators in research findings,6515: references to a specific shoe brand
+315,0.1676,15108:  concepts and discussions related to health care policies and decision-making processes,2614: equations and mathematical formulas
+316,0.1675,13945: negatives or negative expressions,8848:  numerical data and statistics
+317,0.1669,12509: words related to plugins and their configurations,6409: conditional statements and expressions of uncertainty or potential outcomes
+318,0.1666,6810: terms related to software licensing and legal disclaimers,8003: sentences that express opinions or reflections on societal issues
+319,0.1666,6449: structured formatting or coding elements,1222: references to collaboration and cooperation
+320,0.1665,9127: words or phrases that describe strength or capability,3598: terms associated with technical specifications and measurements
+321,0.1664,8848:  numerical data and statistics,10361:  technical terms related to structural integrity and measurement in various contexts
+322,0.166,87:  programmatic constructs and conditions related to feedback mechanisms,2918: phrases expressing opinions or arguments regarding political issues
+323,0.1659,8848:  numerical data and statistics,14582: special characters and formatting symbols used in programming or document structure
+324,0.1659,14300:  phrases related to legal and bureaucratic processes,9368:  phrases indicating reported speech or explanations
+325,0.1656,"1079: specific technical terms or jargon, particularly in scientific or engineering contexts",406: issues related to functionality and errors in programming or web development
+326,0.1656,6409: conditional statements and expressions of uncertainty or potential outcomes,7038: phrases and terms related to education and online learning resources
+327,0.1655,5677: references to actions or decisions related to judgments or assessments,12368: conjunctions and punctuation marks indicating lists or series
+328,0.1655,8003: sentences that express opinions or reflections on societal issues,13864: special characters and formatting elements in text
+329,0.1654,3447: phrases indicating requirements or specifications related to jobs or services,15108:  concepts and discussions related to health care policies and decision-making processes
+330,0.1653,"9243: references to trauma, particularly related to medical and psychological conditions",15108:  concepts and discussions related to health care policies and decision-making processes
+331,0.165,406: issues related to functionality and errors in programming or web development,5245: terms related to computational processes and programming constructs
+332,0.165,10759: technical terms and concepts related to software development and programming,5549: statistical numbers and numerical data related to measurements
+333,0.1649,15743:  boolean values and their assignments in programming code,9482: references to bundles in the context of software or object serialization
+334,0.1648,9512: structural elements and relationships within code and data structures,406: issues related to functionality and errors in programming or web development
+335,0.1648,13975: distinctive or important identifiers in a dataset,13552: information related to scientific methodologies or experimental processes
+336,0.1646,8003: sentences that express opinions or reflections on societal issues,9751: terms related to roofing materials and structures
+337,0.1643,10763: terms related to quality control and monitoring processes,8848:  numerical data and statistics
+338,0.1641,3194: information related to news and academic programs,12646: elements related to legal terminology and formal processes
+339,0.164,2352: mentions of specific individuals and organizations involved in political or legal contexts,15108:  concepts and discussions related to health care policies and decision-making processes
+340,0.1636,5112: prominent numerical values and their relationships within the text,"4618: references to time, specifically the concept of ""year"" and its variants"
+341,0.1633,12901:  concepts related to task delegation and employee independence in a work environment,10937: network communication operations and protocols
+342,0.1633,8848:  numerical data and statistics,4158: elements of programming syntax and structure
+343,0.1632,8822: highly technical and mathematical terminology related to algebraic geometry and abstract algebra concepts,"2585: specific alphanumeric sequences, especially relating to variable names or identifiers"
+344,0.163,9127: words or phrases that describe strength or capability,4280: mathematical or scientific notation related to variables or parameters in equations
+345,0.163,4280: mathematical or scientific notation related to variables or parameters in equations,406: issues related to functionality and errors in programming or web development
+346,0.1626,3003: references to recognized organizations or institutions,8003: sentences that express opinions or reflections on societal issues
+347,0.1625,5513: programming and function-related syntax,15108:  concepts and discussions related to health care policies and decision-making processes
+348,0.1624,15108:  concepts and discussions related to health care policies and decision-making processes,8680:  references to mental health issues and their impacts
+349,0.1619,"8025:  code-related constructs, particularly static declarations and function definitions",6409: conditional statements and expressions of uncertainty or potential outcomes
+350,0.1619,15743:  boolean values and their assignments in programming code,5475: instances of direct quotations or expressions
+351,0.1617,5629: terms associated with health management and treatment compliance,15108:  concepts and discussions related to health care policies and decision-making processes
+352,0.1614,2843: code structure and definitions commonly used in programming,3598: terms associated with technical specifications and measurements
+353,0.161,9567: instances of common nouns and phrases related to food and dining contexts,3261: questions related to personal experiences and advice
+354,0.161,406: issues related to functionality and errors in programming or web development,12425: terms associated with business consulting and restaurant management
+355,0.161,8699:  references to statistical data or results in a scientific context,15108:  concepts and discussions related to health care policies and decision-making processes
+356,0.1606,8848:  numerical data and statistics,15108:  concepts and discussions related to health care policies and decision-making processes
+357,0.1606,15108:  concepts and discussions related to health care policies and decision-making processes,16238:  phrases related to structures and mechanisms in technology and science
+358,0.1605,406: issues related to functionality and errors in programming or web development,4280: mathematical or scientific notation related to variables or parameters in equations
+359,0.1605,12857:  phrases that express satisfaction or positive experiences,573: references to personal experiences and perceptions
+360,0.1604,1743:  references to academic achievements and recognitions,8003: sentences that express opinions or reflections on societal issues
+361,0.1604,573: references to personal experiences and perceptions,12857:  phrases that express satisfaction or positive experiences
+362,0.1602,8848:  numerical data and statistics,2255: references to oppression and struggles against authority
+363,0.16,12453: time indicators or numeric references,8003: sentences that express opinions or reflections on societal issues
+364,0.1599,6409: conditional statements and expressions of uncertainty or potential outcomes,8063: mathematical symbols and expressions
+365,0.1599,5549: statistical numbers and numerical data related to measurements,16204: legal terminology related to court cases
+366,0.1598,573: references to personal experiences and perceptions,"5176: terms and phrases related to computing, data processing, and technology"
+367,0.1598,15743:  boolean values and their assignments in programming code,4093:  non-standard whitespace or formatting characters in text
+368,0.1597,10012: numerical values or statistics related to data analysis,12028: terms related to energy efficiency and the operation of air conditioning systems
+369,0.1595,6409: conditional statements and expressions of uncertainty or potential outcomes,"5752: frequent references to the Google APIs and libraries, particularly focusing on common classes and functions"
+370,0.1595,3598: terms associated with technical specifications and measurements,14059: date-related information and numerical data
+371,0.1595,286: phrases that highlight key components or concepts in a scientific or technical context,8822: highly technical and mathematical terminology related to algebraic geometry and abstract algebra concepts
+372,0.1594,7412: terms related to electrical engineering and control systems,15108:  concepts and discussions related to health care policies and decision-making processes
+373,0.1594,12857:  phrases that express satisfaction or positive experiences,10937: network communication operations and protocols
+374,0.1593,7412: terms related to electrical engineering and control systems,8003: sentences that express opinions or reflections on societal issues
+375,0.1592,6409: conditional statements and expressions of uncertainty or potential outcomes,3598: terms associated with technical specifications and measurements
+376,0.1592,15108:  concepts and discussions related to health care policies and decision-making processes,12580: syntax and structure elements within code snippets or programming languages
+377,0.159,2119: elements related to systematic processes or methodologies in various contexts,8848:  numerical data and statistics
+378,0.159,4230: terms related to weddings and marriage ceremonies,11679: statements and beliefs indicating a sense of uncertainty or questioning
+379,0.1589,15108:  concepts and discussions related to health care policies and decision-making processes,6515: references to a specific shoe brand
+380,0.1588,"4618: references to time, specifically the concept of ""year"" and its variants",5112: prominent numerical values and their relationships within the text
+381,0.1588,15743:  boolean values and their assignments in programming code,5916: specific content or structure indicating data formats or coding elements
+382,0.1584,15108:  concepts and discussions related to health care policies and decision-making processes,8699:  references to statistical data or results in a scientific context
+383,0.1581,15550:  narratives that explore themes of personal struggle and resilience,6409: conditional statements and expressions of uncertainty or potential outcomes
+384,0.1576,75:  initial tokens that signify the beginning of a new section or topic,5549: statistical numbers and numerical data related to measurements
+385,0.1575,4086:  numerical data related to health metrics or medical values,6409: conditional statements and expressions of uncertainty or potential outcomes
+386,0.1573,14052: codes and programming constructs related to boolean logic and conditional statements,15108:  concepts and discussions related to health care policies and decision-making processes
+387,0.1572,15108:  concepts and discussions related to health care policies and decision-making processes,"5862: arguments related to rights, obligations, and participation in societal contexts"
+388,0.1572,15649: expressions of gratitude and appreciation,2989: statistical significance indicators in research findings
+389,0.1569,3673: terms and phrases related to reproductive health and fertility,3556: programmatic assignments and results in code-related contexts
+390,0.1569,1577: terms related to scientific reagents and their usage in experimental procedures,6409: conditional statements and expressions of uncertainty or potential outcomes
+391,0.1567,9512: structural elements and relationships within code and data structures,3673: terms and phrases related to reproductive health and fertility
+392,0.1566,15743:  boolean values and their assignments in programming code,8122: concepts related to biological processes and measurements in scientific research
+393,0.1565,12028: terms related to energy efficiency and the operation of air conditioning systems,16205:  structured data expressions and command syntax in programming contexts
+394,0.1565,15108:  concepts and discussions related to health care policies and decision-making processes,16122:  punctuation and sentence endings
+395,0.1562,14269:  references to government budgets and financial decisions,8003: sentences that express opinions or reflections on societal issues
+396,0.1561,2843: code structure and definitions commonly used in programming,920: elements related to digital file management and application settings
+397,0.156,15108:  concepts and discussions related to health care policies and decision-making processes,5623: references to specific locations and notable figures
+398,0.1558,15743:  boolean values and their assignments in programming code,12597: formats of written content and their structural elements
+399,0.1558,"4618: references to time, specifically the concept of ""year"" and its variants",6013: scientific terms related to genetic mutations and mathematical concepts
+400,0.1556,14050: financial metrics and indicators related to stock performance and dividends,6409: conditional statements and expressions of uncertainty or potential outcomes
+401,0.1554,"2585: specific alphanumeric sequences, especially relating to variable names or identifiers",7647: expressions of gratitude and appreciation
+402,0.1553,"7422: references to the introduction and addition of new elements or features, particularly in a technical or formal context",3598: terms associated with technical specifications and measurements
+403,0.1553,8690: mathematical expressions and formatting related to equations,13193: terms related to plant breeding and genetic characteristics
+404,0.1553,4280: mathematical or scientific notation related to variables or parameters in equations,15108:  concepts and discussions related to health care policies and decision-making processes
+405,0.1552,2352: mentions of specific individuals and organizations involved in political or legal contexts,6013: scientific terms related to genetic mutations and mathematical concepts
+406,0.1552,8848:  numerical data and statistics,14620: mathematical symbols and expressions related to functions and operations
+407,0.1552,8003: sentences that express opinions or reflections on societal issues,15863: terms and phrases related to depth and profoundness in various contexts
+408,0.1552,9127: words or phrases that describe strength or capability,2918: phrases expressing opinions or arguments regarding political issues
+409,0.1549,4232: medical conditions and associated statistics,3673: terms and phrases related to reproductive health and fertility
+410,0.1549,15994:  terms related to binding actions or processes,3598: terms associated with technical specifications and measurements
+411,0.1547,3673: terms and phrases related to reproductive health and fertility,12142: file paths within a Windows operating system context
+412,0.1545,5549: statistical numbers and numerical data related to measurements,"2749: legal references, case citations, and procedural terminology"
+413,0.1545,15743:  boolean values and their assignments in programming code,3381: uncertainty and ambiguity in the context of mechanisms and processes
+414,0.1544,8003: sentences that express opinions or reflections on societal issues,"1504:  references to individuals' names and titles, particularly in a biographical context"
+415,0.1543,3598: terms associated with technical specifications and measurements,10775: mathematical operations and their derivatives
+416,0.154,6409: conditional statements and expressions of uncertainty or potential outcomes,14609: mathematical expressions and variables related to operations or equations
+417,0.154,9127: words or phrases that describe strength or capability,2586:  biographical details and personal history of individuals
+418,0.154,12857:  phrases that express satisfaction or positive experiences,2352: mentions of specific individuals and organizations involved in political or legal contexts
+419,0.1539,13552: information related to scientific methodologies or experimental processes,12028: terms related to energy efficiency and the operation of air conditioning systems
+420,0.1539,5549: statistical numbers and numerical data related to measurements,1395: structured data and syntax used in programming code
+421,0.1539,12302:  comparisons or checks for inequality in code,5549: statistical numbers and numerical data related to measurements
+422,0.1538,12937:  terms related to software licensing and redistribution,6409: conditional statements and expressions of uncertainty or potential outcomes
+423,0.1538,10784:  URLs or content related to web addresses,2989: statistical significance indicators in research findings
+424,0.1536,13025: technical terms related to Java servlets and RESTful web services,3673: terms and phrases related to reproductive health and fertility
+425,0.1534,5549: statistical numbers and numerical data related to measurements,1701:  terms related to statistical analysis and measurement
+426,0.1533,87:  programmatic constructs and conditions related to feedback mechanisms,406: issues related to functionality and errors in programming or web development
+427,0.1532,3556: programmatic assignments and results in code-related contexts,406: issues related to functionality and errors in programming or web development
+428,0.1532,573: references to personal experiences and perceptions,"10943:  references to software development concepts, particularly related to error handling and data annotations"
+429,0.153,6409: conditional statements and expressions of uncertainty or potential outcomes,8626: expressions of positive evaluation or subjective judgments
+430,0.153,15108:  concepts and discussions related to health care policies and decision-making processes,8848:  numerical data and statistics
+431,0.1528,6515: references to a specific shoe brand,15108:  concepts and discussions related to health care policies and decision-making processes
+432,0.1526,15743:  boolean values and their assignments in programming code,754: HTML or XML-like markup tags and structural elements
+433,0.1526,3673: terms and phrases related to reproductive health and fertility,"3528: terms related to healthcare and medical conditions, especially those involving patient history and exclusion criteria for clinical trials"
+434,0.1525,5549: statistical numbers and numerical data related to measurements,2201: content related to legal processes and decisions
+435,0.1525,5800:  technical jargon and specific instructions related to coding and programming,406: issues related to functionality and errors in programming or web development
+436,0.1525,"10522: phrases related to legal arguments and case outcomes, particularly in the context of counsel performance and its implications for appeal",8003: sentences that express opinions or reflections on societal issues
+437,0.1523,3598: terms associated with technical specifications and measurements,9453: neural network activations that reflect mathematical or scientific data without context
+438,0.1522,2918: phrases expressing opinions or arguments regarding political issues,3261: questions related to personal experiences and advice
+439,0.1521,3242: references to internet addresses or domain names,15108:  concepts and discussions related to health care policies and decision-making processes
+440,0.1519,5549: statistical numbers and numerical data related to measurements,7936: quantitative data and statistics related to users and measurements
+441,0.1519,8848:  numerical data and statistics,5695: legal terminology and phrases associated with court orders and judgments
+442,0.1516,3673: terms and phrases related to reproductive health and fertility,2990: code-related terminology and functions in programming documentation
+443,0.1516,"5176: terms and phrases related to computing, data processing, and technology",6013: scientific terms related to genetic mutations and mathematical concepts
+444,0.1516,1778: terms related to separation and distinguishing components from one another,15108:  concepts and discussions related to health care policies and decision-making processes
+445,0.1514,4487: scheduled events and their timings,3261: questions related to personal experiences and advice
+446,0.1514,8003: sentences that express opinions or reflections on societal issues,14628:  phrases and words related to presentation or conveying information
+447,0.1514,3598: terms associated with technical specifications and measurements,13158: content related to financial concepts and trading
+448,0.1514,11066:  occurrences of code and programming-related syntax,6409: conditional statements and expressions of uncertainty or potential outcomes
+449,0.1514,15108:  concepts and discussions related to health care policies and decision-making processes,9122: structured data or specific formatting elements within the text
+450,0.1512,5695: legal terminology and phrases associated with court orders and judgments,406: issues related to functionality and errors in programming or web development
+451,0.1512,15108:  concepts and discussions related to health care policies and decision-making processes,6238: special characters and symbols commonly used in mathematical expressions
+452,0.1511,3673: terms and phrases related to reproductive health and fertility,5245: terms related to computational processes and programming constructs
+453,0.151,15743:  boolean values and their assignments in programming code,2843: code structure and definitions commonly used in programming
+454,0.1508,16205:  structured data expressions and command syntax in programming contexts,13975: distinctive or important identifiers in a dataset
+455,0.1508,4040: elements pertaining to standards and organization in a structured context,5549: statistical numbers and numerical data related to measurements
+456,0.1508,3673: terms and phrases related to reproductive health and fertility,12812: specific data structures or coding syntax related to objects or records
+457,0.1504,14620: mathematical symbols and expressions related to functions and operations,15108:  concepts and discussions related to health care policies and decision-making processes
+458,0.1504,"2585: specific alphanumeric sequences, especially relating to variable names or identifiers",12937:  terms related to software licensing and redistribution
+459,0.1503,573: references to personal experiences and perceptions,8648: punctuation marks and parentheses
+460,0.1501,15108:  concepts and discussions related to health care policies and decision-making processes,15804: array-related syntax and operations
+461,0.1501,16025: opinions and expressions of personal beliefs,8191:  occurrences of specific variable declarations or iterations in code
+462,0.1501,8003: sentences that express opinions or reflections on societal issues,9328: references to scientific and technical processes or terminologies
+463,0.15,"4618: references to time, specifically the concept of ""year"" and its variants",8003: sentences that express opinions or reflections on societal issues
+464,0.1499,8003: sentences that express opinions or reflections on societal issues,800:  instances of individuals expressing opinions or remarks in a discussion or report
+465,0.1498,2989: statistical significance indicators in research findings,7026:  numerical values and mathematical notations
+466,0.1498,406: issues related to functionality and errors in programming or web development,12261: phrases that express disbelief or the need for validation of information
+467,0.1498,5311: references to courtship and mating behaviors in animals,8848:  numerical data and statistics
+468,0.1498,11184: references to charitable donations and philanthropy,8848:  numerical data and statistics
+469,0.1497,8848:  numerical data and statistics,"10044: mentions of family relationships, particularly focusing on the description of a deceased person and their relatives"
+470,0.1495,7619:  references to age and demographic details of individuals,6409: conditional statements and expressions of uncertainty or potential outcomes
+471,0.1495,8848:  numerical data and statistics,10788:  technical terms and parameters related to performance metrics
+472,0.1493,10775: mathematical operations and their derivatives,3598: terms associated with technical specifications and measurements
+473,0.1492,11561: words related to health and medical conditions,8848:  numerical data and statistics
+474,0.1492,2918: phrases expressing opinions or arguments regarding political issues,9567: instances of common nouns and phrases related to food and dining contexts
+475,0.149,4232: medical conditions and associated statistics,3598: terms associated with technical specifications and measurements
+476,0.149,8848:  numerical data and statistics,909:  non-specific markers or a high frequency of certain characters and symbols in text
+477,0.1489,16122:  punctuation and sentence endings,15108:  concepts and discussions related to health care policies and decision-making processes
+478,0.1489,1987:  questions and lists related to information retrieval,2918: phrases expressing opinions or arguments regarding political issues
+479,0.1488,10937: network communication operations and protocols,3598: terms associated with technical specifications and measurements
+480,0.1486,"1079: specific technical terms or jargon, particularly in scientific or engineering contexts",3673: terms and phrases related to reproductive health and fertility
+481,0.1482,13236: technical terms and formatting related to programming and document structure,1222: references to collaboration and cooperation
+482,0.1481,6409: conditional statements and expressions of uncertainty or potential outcomes,16135: references to null or nonexistent values in programming contexts
